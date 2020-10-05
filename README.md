@@ -2,7 +2,7 @@
 
 #### -- Project Status: Completed
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to predict whether a customer will fully repay the loan or default by considering various factors like their employment, demographics, 
 salary and more. This prediction can be used to analyse new customer data and to derive insights on customers who default to pay their loan.
 
