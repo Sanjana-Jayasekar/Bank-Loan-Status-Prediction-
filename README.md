@@ -12,7 +12,7 @@ salary and more. This prediction can be used to analyse new customer data and to
 * Inferential Statistics
 
 ### Technologies
-* Pyhton 
+* Python 
 * Tableau
 
 ## Project Description
