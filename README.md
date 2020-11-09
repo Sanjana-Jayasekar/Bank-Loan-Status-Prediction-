@@ -11,7 +11,7 @@ salary and more. This prediction can be used to analyse new customer data and to
 * Data Visualization
 * Inferential Statistics
 
-### Technologies
+### Tech Stack
 * Python 
 * Tableau
 
