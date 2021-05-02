@@ -13,7 +13,6 @@ salary and more. This prediction can be used to analyse new customer data and to
 
 ### Tech Stack
 * Python 
-* Tableau
 
 ## Project Description
 The project involved implementing classification models like K- nearest neighbours, Logistic regression, Support Vector Classifications and Decision tree classifier along with
